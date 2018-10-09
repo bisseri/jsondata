@@ -1,8 +1,7 @@
 {
   "articles":[
     {"name":"name1"},
-    {"name":"name2"}
-    
+    {"name":"name2"}   
   ],
   "posts": [
         { "id": 1, "title": "Post 1"  },
