@@ -1,4 +1,9 @@
 {
+  "articles":[
+    {"name":"name1"},
+    {"name":"name2"},
+    {"name":"name3"}
+  ],
   "posts": [
         { "id": 1, "title": "Post 1"  },
             { "id": 2, "title": "Post 2"  },
@@ -13,11 +18,7 @@
   "profile": {
         "name": "typicode"
           
-  },
-  "articles":[
-    {"name":"name1"},
-    {"name":"name2"},
-    {"name":"name3"}
-  ]
+  }
+  
 
 }
