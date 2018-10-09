@@ -13,6 +13,11 @@
   "profile": {
         "name": "typicode"
           
-  }
+  },
+  "articles":[
+    {name:"name1"},
+    {name:"name2"},
+    {name:"name3"}
+  ]
 
 }
